@@ -1,0 +1,3 @@
+## TYPESCRIPT CRASH COURSE
+
+Here I explore the basics & fundamentals of typescript...
